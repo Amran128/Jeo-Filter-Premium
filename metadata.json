@@ -1,0 +1,6 @@
+{
+  "name": "Joe Filter",
+  "description": "Premium, modern HVAC and home maintenance services for Phoenix homeowners and property managers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
